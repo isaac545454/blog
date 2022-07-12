@@ -203,9 +203,11 @@ footer{
     margin: 0 auto;
     left: 0;
     width: 50px;
+    background-color: #161616;
+    padding: 20px;
   }
 
-  #navbar li{
+  #navbar {
     display: none;
     
   }
