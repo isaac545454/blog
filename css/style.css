@@ -191,6 +191,7 @@ footer{
 /* MOBILE */
 @media(max-width: 480px) {
   /* HOME */
+   
   
   header {
     width: 100%;
@@ -206,6 +207,7 @@ footer{
 
   #navbar {
     display: none;
+    background-color: #161616;
   }
 
   #title-container {
