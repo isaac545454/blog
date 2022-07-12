@@ -205,9 +205,9 @@ footer{
     width: 50px;
   }
 
-  #navbar {
+  #navbar li{
     display: none;
-    background-color: #161616;
+    
   }
 
   #title-container {
